@@ -255,11 +255,11 @@ Contributions are welcome! This is a research project, and there are many direct
 If you use BioPredNet in your research, please cite:
 
 ```bibtex
-@software{bioprednet2024,
+@software{bioprednet2025,
   title={BioPredNet: Biologically-Inspired Predictive Neural Networks},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/bioprednet}
+  author={Yambwa Imwaka},
+  year={2025},
+  url={https://github.com/YambwaImwaka/bioprednet}
 }
 ```
 
@@ -279,8 +279,8 @@ This implementation is inspired by foundational work in:
 
 For questions, suggestions, or collaborations:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: info@yambwaimwaka.com
 
 ---
 
-**Built with ❤️ for advancing biologically-plausible AI**
+**Built with ❤️ for Advancing biologically-plausible AI**
